@@ -26,9 +26,9 @@ To assure that the php environment is installed on the machine, run the command 
 
 In case of succes, the result would be like the below:
 
-[PHP 5.5.12 (cli) (built: Apr 30 2014 11:20:58)
-Copyright (c) 1997-2014 The PHP Group
-Zend Engine v2.5.0, Copyright (c) 1998-2014 Zend Technologies
+[PHP 5.5.12 (cli) (built: Apr 30 2014 11:20:58)<br>
+Copyright (c) 1997-2014 The PHP Group<br>
+Zend Engine v2.5.0, Copyright (c) 1998-2014 Zend Technologies<br>
 with Xdebug v2.2.5, Copyright (c) 2002-2014, by Derick Rethans].
 
 After providing the requirements, select the main directory of the apache server, the root directory, www/ or htdocs, to put the package inside the root, you can create a "GlobComm" folder as a main directory for the application, then put all the files related inside it.
@@ -36,7 +36,7 @@ Launch the MySQL server, and create a new database called ("operations" for exam
   
 # Running Application
   [We disabled running the code using web browser, in reason to be more clarified, anyway, it would be working without the TEXT File 
-  argument ]
+  argument].<br>
   Open the cmd.exe soft, the CLI, navigate to the destination directory, and run the command below:
   * php operations.php --file=operations.txt
 
@@ -48,6 +48,5 @@ For the game events (jeux de cas), you can check the output errors by altering t
   * php operations.php --(ANY_SYNTAX)=(FILE_NAME).<EXT> 
   
 # License
-Copyright (c) 2010-2016 Mouhamad Ounayssi.
-
+Copyright (c) 2010-2016 Mouhamad Ounayssi.<br>
 Blog: https://www.mouhamadounayssi.wordpress.com.
