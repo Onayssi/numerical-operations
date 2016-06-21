@@ -23,13 +23,12 @@ The package includes the files and folders below:
 # Installation
 To assure that the php environment is installed on the machine, run the command below and check the output:
   * php -v
-  * In case of succes, the result would be like the below:
-  * [
-  * PHP 5.5.12 (cli) (built: Apr 30 2014 11:20:58)
-  * Copyright (c) 1997-2014 The PHP Group
-  * Zend Engine v2.5.0, Copyright (c) 1998-2014 Zend Technologies
-  * with Xdebug v2.2.5, Copyright (c) 2002-2014, by Derick Rethans
-  * ]
+In case of succes, the result would be like the below:
+[PHP 5.5.12 (cli) (built: Apr 30 2014 11:20:58)
+Copyright (c) 1997-2014 The PHP Group
+Zend Engine v2.5.0, Copyright (c) 1998-2014 Zend Technologies
+with Xdebug v2.2.5, Copyright (c) 2002-2014, by Derick Rethans]
+
 After providing the requirements, select the main directory of the apache server, the root directory, www/ or htdocs, to put the package inside the root, you can create a "GlobComm" folder as a main directory for the application, then put all the files related inside it.
 Launch the MySQL server, and create a new database called ("operations" for example, you can change the name from the query.php file), import the operations.sql file from the sql folder and the run the execute command.
   
@@ -48,5 +47,4 @@ For the game events (jeux de cas), you can check the output errors by altering t
   
 # License
 Copyright (c) 2010-2016 Mouhamad Ounayssi.
-
 Blog: https://www.mouhamadounayssi.wordpress.com.
