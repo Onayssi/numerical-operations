@@ -46,7 +46,7 @@ For the game events (jeux de cas), you can check the output errors by altering t
   * php operations.php --file=(ANY_FILE_NAME).txt 
   * php operations.php --file=(FILE_NAME).pdf
   * php operations.php --(ANY_SYNTAX)=(FILE_NAME).<EXT> 
-  
+ 
 # License
 Copyright (c) 2010-2017 Mouhamad Ounayssi.<br>
 Blog: https://www.mouhamadounayssi.wordpress.com.
