@@ -49,4 +49,4 @@ For the game events (jeux de cas), you can check the output errors by altering t
  
 # License
 Copyright (c) 2010-2017 Mouhamad Ounayssi.<br>
-Blog: https://www.mouhamadounayssi.wordpress.com.
+Blog: https://www.mouhamadonayssi.wordpress.com.
